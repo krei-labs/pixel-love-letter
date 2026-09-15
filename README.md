@@ -69,7 +69,7 @@ All of the animation, hit-detection, and state logic lives in `love.js`; visuals
 ## 📂 Project Structure
 
 ```text
-project2/
+pixel-love-letter/
 ├── index.html            # Page structure: aim stage, letter window, gallery, buttons
 ├── love.css               # Pixel-art styling, animations, responsive layout
 ├── love.js                 # Bow/arrow physics, hit detection, gallery, confetti, music

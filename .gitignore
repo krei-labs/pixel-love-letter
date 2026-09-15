@@ -1,0 +1,35 @@
+# ==============================
+# Pixel Love Letter Git Ignore
+# ==============================
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE / editor files
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
+
+# Local development files
+*.local
+
+# Node / package files if used locally
+node_modules/
+
+# Personal media
+photo*.jpg
+photo*.jpeg
+photo*.png
+background-music.mp3
+
+# Environment / secrets
+.env
+.env.*
+!.env.example
